@@ -19,4 +19,5 @@ function johnLennonFacts(array){
     --counter
     place++
   }
+  return newArray
 }
