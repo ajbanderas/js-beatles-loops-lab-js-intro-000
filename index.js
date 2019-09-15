@@ -1,5 +1,5 @@
 // add solution here
 
 function theBeatlesPlay(musicians, instruments){
-  var 
+  var array = new Array()
 }
