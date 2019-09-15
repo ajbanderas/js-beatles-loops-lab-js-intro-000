@@ -21,3 +21,13 @@ function johnLennonFacts(array){
   }
   return newArray
 }
+
+function iLoveTheBeatles(num){
+  var array = []
+  var counter = num
+  do{
+    array.push("I love the Beatles!")
+    counter++
+  } while(counter < 15)
+  return array
+}
